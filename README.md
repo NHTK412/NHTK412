@@ -1,109 +1,123 @@
 # 👋 Hello, I'm Nguyen Huu Tuan Khang
+### Backend Developer
+
+- Facebook: https://www.facebook.com/nhtk.412
+- LinkedIn: https://linkedin.com/in/nguyễn-hữu-tuấn-khang-1a9250324  
+
+---
 
 ## 🚀 About Me
-I am an Information Technology student at **University of Transport Ho Chi Minh City (UTH)**, aiming to become a Backend Engineer.
+IT student at **Ho Chi Minh City University of Transport (UTH)** (GPA: **3.8/4.0**, Excellent Scholarship).
 
-- 🎓 **Excellent Scholarship (First Year)**
-- 💡 Focused on Backend Development: Spring Boot, Node.js
-- 🔧 Experience building RESTful APIs (JWT, orders, payments)
-- 📈 Currently learning: Redis, Docker, System Design
+Backend-focused developer with hands-on experience building **RESTful systems** using:
+- **Spring Boot**
+- **Node.js (Express, NestJS)**
 
----
+Strong experience in:
+- Authentication (JWT)
+- Payment Integration
+- Promotion Systems
+- Order & Inventory Management
 
-## 📫 Contact
-- Email: **nguyenhuutuankhang412@gmail.com**
-- LinkedIn: https://linkedin.com/in/nguyễn-hữu-tuấn-khang-1a9250324
-- Facebook: https://www.facebook.com/nhtk.412/
-
----
-
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming Languages
-Java, JavaScript, Python, C++, Dart  
-
-### ⚙️ Backend
-Spring Boot, Node.js (ExpressJS, NestJS)  
-
-### 🎨 Frontend
-HTML, CSS, JavaScript, ReactJS (basic)  
-
-### 📱 Mobile
-Flutter  
-
-### 🗄️ Databases
-MySQL, MongoDB, Redis  
-
-### ☁️ Tools
-Firebase, Docker, Git, GitHub  
-
-### 🧠 Currently Learning
-Solidity (Web3)
+Currently learning **Redis, Docker, and System Design** to build scalable systems.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🚗 Traffic Fine Management System (Backend)
-- Manage traffic violation records  
-- Built RESTful APIs with Spring Boot  
-- Core features: violation management, record creation, lookup  
+### 🔹 Languages
+`Java` `JavaScript` `Python` `C++` `Dart`
 
-👉 Repo: `traffic-fine-management-be`
+### 🔹 Backend
+`Spring Boot` `Express.js` `NestJS`
 
----
+### 🔹 Frontend
+`ReactJS` `HTML` `CSS` `JavaScript`
 
-### 🚙 EV Dealer Management System (Backend)
-- Manage electric vehicle dealerships  
-- Handle products, inventory, and orders  
-- Designed RESTful APIs following best practices  
+### 🔹 Mobile
+`Flutter` `Android (Java)`
 
-👉 Repo: `EV-Dealer-Management-System-BE`
+### 🔹 Database
+`MySQL` `MongoDB` `Redis`
 
----
-
-### 🏨 Hotel Booking System (Backend)
-- Hotel reservation system  
-- Manage rooms, bookings, and users  
-- Handle booking logic (availability, time, status)  
-- Built RESTful APIs using Spring Boot  
-
-👉 Repo: `hotel-booking-be`
+### 🔹 Tools & Others
+`Docker` `Firebase` `Git` `Swagger`
 
 ---
 
-### 🛒 E-commerce Backend
-- JWT Authentication  
-- Cart, order, and payment management  
-- Production-ready API design  
+## 💼 Experience
+
+### 🧑‍🏫 Teky Creative Technology Academy (05/2025 – 03/2026)
+- Taught programming & robotics (Python, LEGO, WhalesBot)
+- Developed students’ logical thinking & problem-solving
+- Designed lesson plans and tracked progress
 
 ---
 
-## 📌 Experience & Activities
+## 📂 Featured Projects
 
-- 🔧 Developed backend for E-commerce system  
-- 👨‍🏫 Taught programming & Robotics for students  
-- 💡 Strong focus on algorithmic thinking and problem solving  
+### 🚔 Traffic Violation Reporting System
+**Tech:** Spring Boot, FastAPI, Android, MySQL  
+- Face recognition & license plate scanning
+- Auto violation report generation via Python service  
+- Role: **Team Leader + Backend + Android**
 
----
-
-## 💪 Strengths
-- Strong logical thinking and system analysis  
-- Hands-on experience through real projects  
-- Ability to teach basic programming  
-- Proficient in Microsoft Office (Word, Excel, PowerPoint)  
+🔗 Backend: https://github.com/NHTK412/BE_UngDungQuetBienSoXe  
+🔗 Android: https://github.com/NHTK412/UngDungQuetBienSoXe  
 
 ---
 
-## 🎯 Career Objective
-To become a professional Backend Engineer building systems that are:
-- ⚡ High performance  
-- 🔒 Secure  
-- 📦 Scalable & production-ready  
+### 🚗 Electric Vehicle Dealer Management System
+**Tech:** Spring Boot, MySQL, Redis  
+
+- Full backend system for EV sales platform  
+- JWT auth + RBAC  
+- Promotion engine (strategy-based)  
+- Payment integration + secure callback  
+- Reporting & caching with Redis  
+
+🔗 Repo: https://github.com/NHTK412/EV-Dealer-Management-System-BE  
 
 ---
 
-## ⚡ Career Focus
-- Deep Backend expertise (Spring Boot / Node.js)  
-- System Design (Microservices, Caching, Message Queue)  
-- Basic DevOps (Docker, CI/CD)  
+### 🛍️ Clothing E-commerce Backend
+**Tech:** Spring Boot, MySQL, Redis, ZaloPay  
+
+- JWT authentication + role-based access  
+- Promotion engine (Strategy Pattern)  
+- Order preview & refund workflow  
+- ZaloPay integration (MAC verification)  
+
+🔗 Repo: https://github.com/NHTK412/clothing-store-backend  
+
+---
+
+### 🏨 Hotel Booking System
+**Tech:** Spring Boot, MySQL, Redis, Firebase  
+
+- Booking, cart, checkout system  
+- Payment integration (ZaloPay)  
+- Notification (Firebase)  
+- Redis caching + Swagger docs  
+
+🔗 Repo: https://github.com/NHTK412/hotel-booking-fullstack  
+
+---
+
+## 📜 Certifications
+- C++ Programming – F8  
+- Google Play Academy – Store Listing  
+- Google AI Essentials (Coursera)  
+
+---
+
+## 🎯 Strengths
+- Strong backend mindset (clean architecture, scalable design)
+- Good at problem-solving & logical thinking
+- Experience with real-world systems (payment, promotion, caching)
+- Teaching experience → clear communication
+
+---
+
+## 🎯 Career Goal
+Become a **Backend Engineer** specializing in scalable, high-performance systems and contribute to real-world production environments.
